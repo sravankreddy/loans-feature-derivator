@@ -1,4 +1,4 @@
-from derivator import stream_s3 as derivator
+from stream_derivator import stream_to_s3 as derivator
 import os
 import logging
 import argparse

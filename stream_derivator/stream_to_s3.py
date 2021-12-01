@@ -4,7 +4,7 @@ from pyspark.sql.avro.functions import from_avro, to_avro
 from pyspark.sql import functions as f
 import requests
 from config import  _app_config as config
-from derivator import feature_generator as features
+from stream_derivator import feature_generator as features
 import logging
 
 log = logging.getLogger('stream_to_s3')
