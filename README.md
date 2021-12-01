@@ -13,3 +13,6 @@ Technologies Used :
 8. AWS Sagemaker (optional)
 9. AWS S3
 10. Python
+
+
+!![image](https://user-images.githubusercontent.com/6806807/144185282-79088b86-1c10-4240-8564-1467f56c49a8.png)
